@@ -35,7 +35,8 @@ Objetivos:
 
         <td>
             <a href="mailto:robinsonbrz@gmail.com">
-            <img src="https://github.com/robinsonbrz/dio-aws/img/Aws-serverless.png" width="1260" height="255" ></a>
+            <img src="https://raw.githubusercontent.com/robinsonbrz/dio-aws/main/img/Aws-serverless.png"
+             width="420" height="85" ></a>
         </td>    
     Aws-serverless.png
 
