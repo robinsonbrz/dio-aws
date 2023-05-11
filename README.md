@@ -33,6 +33,12 @@ Objetivos:
     - AWS Lambda
     - AWS DynamoDB
 
+        <td>
+            <a href="mailto:robinsonbrz@gmail.com">
+            <img src="https://github.com/robinsonbrz/dio-aws/img/Aws-serverless.png" width="1260" height="255" ></a>
+        </td>    
+    Aws-serverless.png
+
 Serviços AWS configurados e deploy gerenciados utilizando o framework serverless, infraestrutura como código
 
 O resultado final é um CRUD com os principais verbos HTTP en uma API, que lê escreve e atualiza em um banco de dados NoSQL DynamoDB
